@@ -1,0 +1,4 @@
+- 👋 Hi, we are @thefrenchbuilders
+- 👀 I’m interested in giving start-up the tools for PMF
+- 🌱 We are currently experimenting with NextJS and TailwindCSS
+- 📫 Reach us on X @frenchbuilders_
